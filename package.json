@@ -1,0 +1,13 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "Simple Quote Generator JS project",
+  "main": "serve",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.1"
+  },
+  "author": "M Toufiq ELAHI"
+}
